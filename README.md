@@ -1,5 +1,3 @@
-> *[Join our community](https://metadevelopment.io/)* for professional Software Developers and get more control over your life and career! 
-
 ----
 
 # Every Programmer Should Know :thinking:
